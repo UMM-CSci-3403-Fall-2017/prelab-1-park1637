@@ -1,0 +1,9 @@
+Fisrt regular expression:
+[a-z]|[A-Z]
+
+Second regular expression:
+(KK|turkey)|(Nic|avacado)|(Vincent|ham)
+
+Third regural expression:
+(turkey.bacon.swiss.|for here)|(ham.cheddar.|to go)|(tunaSalad.|to go)
+
